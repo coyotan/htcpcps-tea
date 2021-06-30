@@ -1,7 +1,7 @@
 HTCPCPS-TEA Server
 ===
 
-### Hyper Text Coffee Pot Control Protocol - Secure<br>for Tea Efflux Appliances
+### Hyper Text Coffee Pot Control Protocol, Secure, for Tea Efflux Appliances
 
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/coyotan/htcpcps-tea)](https://github.com/CoyoTan/HTCPCPS-TEA/)
